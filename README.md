@@ -12,6 +12,6 @@ Mathematically, Lévy flights follow a power-law distribution, meaning most move
 To plot the levy_flight_with_distribution in Python, use the following code, [View `levy-flight.py`](Python/levy-flight.py). 
 
 
-However, Lévy flights lose their advantage when conditions change. In dense prey fields like krill swarms, baleen[bay-] whales switch to tight, looping movements—a more effective Brownian search strategy. Similarly, predators with advanced senses or intelligence often bypass random searches altogether. Dolphins use echolocation and teamwork, while sharks follow chemical trails directly to food sources.  
+However, Lévy flights lose their advantage when conditions change. In dense prey fields like krill swarms, baleen whales switch to tight, looping movements—a more effective Brownian search strategy. Similarly, predators with advanced senses or intelligence often bypass random searches altogether. Dolphins use echolocation and teamwork, while sharks follow chemical trails directly to food sources.  
 
 The study of these patterns extends beyond biology. Engineers apply Lévy principles to improve underwater drone searches, while conservationists use them to identify critical hunting grounds. These natural strategies demonstrate how evolution optimizes even the simplest movement rules for survival in Earth’s most challenging wilderness.  
