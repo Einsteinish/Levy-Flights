@@ -1,6 +1,7 @@
 # Lévy Flights: Beyond Random Searches in the Open Ocean
 
 ![levy_flight](images/levy_flight.png)
+To plot the levy_flight in Python, use the following code, [View `levy.py`](Python/levy.py). 
 
 In the vast, prey-scarce open ocean, predators rely on specialized search strategies to survive. The Lévy walk or Lévy flight—a pattern mixing short, intensive searches with occasional long-distance movements—has emerged as the optimal strategy for finding patchy prey. This approach creates an efficient balance between local exploration and broader area coverage, minimizing energy waste while maximizing hunting success.  
 
